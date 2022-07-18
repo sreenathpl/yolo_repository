@@ -2,6 +2,6 @@ numpy>=1.9.2
 pandas>=0.19
 flask
 gunicorn
-sklearn
 matplotlib>=3.0.0
 werkzeug
+cv2

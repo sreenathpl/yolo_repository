@@ -4,6 +4,4 @@ flask
 gunicorn
 sklearn
 matplotlib>=3.0.0
-sys
-os
 werkzeug

@@ -4,7 +4,6 @@ flask
 gunicorn
 sklearn
 matplotlib>=3.0.0
-time
 sys
 os
 werkzeug

@@ -3,7 +3,7 @@ pandas>=0.19
 flask
 gunicorn
 sklearn
-matplotlib>=3.6
+matplotlib>=3.0.0
 time
 sys
 os

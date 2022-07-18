@@ -4,4 +4,4 @@ flask
 gunicorn
 matplotlib>=3.0.0
 werkzeug
-cv2=4.6.0.66
+cv2>=3.0.0

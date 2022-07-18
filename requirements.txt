@@ -4,4 +4,4 @@ flask
 gunicorn
 matplotlib>=3.0.0
 werkzeug
-cv2>=3.0
+opencv-python==3.3.0.10
